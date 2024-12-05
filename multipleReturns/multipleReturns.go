@@ -11,7 +11,6 @@ func sum(a, b, x, y int) (int, int) {
 }
 
 func main() {
-
 	a, b := vals()
 	fmt.Println(a)
 	fmt.Println(b)
